@@ -1,0 +1,9 @@
+h1{
+  font-family: sans-serif;
+  color: #E2E2E2;
+  position: absolute;
+}
+
+canvas{
+  border: solid 2px #000000;
+}
